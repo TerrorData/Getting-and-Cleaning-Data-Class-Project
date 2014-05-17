@@ -40,7 +40,7 @@ Description of the run_analysis.R program
 - Create a tidy Dataset from an aggregation of the merged/extracted data
 - Create tidy.txt file from the tidy data
 
-Instructions on how to run the run_analysis.R program
+Instructions on how to execute run_analysis.R
 ======================================================
 - Download the zip file from the URL above and extract the data into a local directory "UCI HAR Dataset"
 - Download the run_analysis.R program
