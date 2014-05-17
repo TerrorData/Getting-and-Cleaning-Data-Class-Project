@@ -46,3 +46,4 @@ If a different directory is used modify directory variable in the run_analysis.R
 Run the run_analysis.R script
 merged.csv and tidy.txt files are created in the current directory
 
+
